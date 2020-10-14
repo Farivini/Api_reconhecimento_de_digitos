@@ -1,2 +1,2 @@
-# Api_reconhecimento_de_digitos
-Api feita com Flask para reconhecimento de dígitos
+
+<h1 align="center">Projeto Reconhecimento de digitos manuais</h1>
