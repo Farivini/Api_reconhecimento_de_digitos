@@ -10,7 +10,7 @@
 
 ## Realização do processamento e treinamento do modelo analisando e salvando.
 
-![Codigo do Process](name-of-gif-file.gif) / ![](C:\Uses\NOTEBOOK\Desktop\20201014_010247.gif)
+![Codigo do Processo](processo.gif) 
 
 
 
@@ -35,6 +35,3 @@ Antes de começar, eu utilizei o interpreter do anaconda que estava com Python 3
 Além disto é bom ter um editor para trabalhar com o código como [Pycharm](https://www.jetbrains.com/pycharm/download/)
 
 
-## Realização do processamento e treinamento do modelo analisando e salvando.
-
-![Codigo do Process](name-of-gif-file.gif) / ![](C:\Uses\NOTEBOOK\Desktop\20201014_010247.gif)
