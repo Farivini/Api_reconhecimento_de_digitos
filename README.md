@@ -33,6 +33,8 @@ Um modelo treinado para detectar cancer que tal? Temos um infinita .
 
 Para rodar esse projeto instalei os pacotes que estão no documento **requirements** 
 
+Junto temos as pastas com varias extensões png que são digitos ja desenhados.
+
 
 
 
