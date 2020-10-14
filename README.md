@@ -3,13 +3,14 @@
 	      🚧  Em construção...  🚧
 </h1>
 
-### Features
+### Processos
 
 - [x] Processamento dos dados
 - [x] Treinamento do modelo
 - [ ] Api feita com Flask para predição do digito
 
 ## Realização do processamento e treinamento do modelo analisando e salvando.
+
 
 ![Codigo do Processo](processo.gif) 
 
@@ -18,6 +19,7 @@
 
 
 ## Desenvolvimento
+
 
 Foi  pegado o dataset que contem digitos de 28 por 28 pixels , essas imagens foram pegas e,
 distribuidas em um array em forma de coluna e transformadas em float para serem processadas.
@@ -29,7 +31,7 @@ Mesmo assim com esse simples modelo podemos ver a grandeza da inteligencia artif
 
 Um modelo treinado para detectar cancer que tal? Temos um infinita .
 
-
+Para rodar esse projeto instalei os pacotes que estão no documento **requirements** 
 
 
 
