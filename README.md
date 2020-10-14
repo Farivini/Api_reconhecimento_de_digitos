@@ -1,5 +1,6 @@
 <h1 align="center"> 
-	🚧  Reconhecimento de digitos manuais   🚧  Em construção...  🚧
+	🚧  Reconhecimento de digitos manuais   
+	      🚧  Em construção...  🚧
 </h1>
 
 ### Features
