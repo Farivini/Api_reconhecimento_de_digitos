@@ -1,18 +1,23 @@
+<h1 align="center"> 
+	🚧  Reconhecimento de digitos manuais   🚧  Em construção...  🚧
+</h1>
 
-<h1 align="center">Projeto Reconhecimento de digitos manuais</h1>
+### Features
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
+- [x] Processamento dos dados
+- [x] Treinamento do modelo
+- [ ] Api feita com Flask para predição do digito
+
+### Autor
+---
+
+ <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/64615200?s=60&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>  Vinicius Farineli Freire</b></sub></a>
+
+
+Feito  por Vinicius Farineli Freire 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-farineli/)](https://www.linkedin.com/in/vinicius-farineli/) 
+[![Gmail Badge](https://img.shields.io/badge/-viniciusfarineli@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusfarineli@gmail.com)](mailto:viniciusfarineli@gmail.com)
+
