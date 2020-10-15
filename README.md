@@ -58,3 +58,12 @@ Antes de começar, eu utilizei o interpreter do anaconda que estava com Python 3
 Além disto é bom ter um editor para trabalhar com o código como [Pycharm](https://www.jetbrains.com/pycharm/download/)
 
 
+## Links consultados
+
+http://luisvalesilva.com/datasimple/digitre.html
+
+https://codepen.io/miam84/pen/aNMryw
+
+https://www.kaggle.com/c/digit-recognizer/data
+
+
