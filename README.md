@@ -7,7 +7,7 @@
 
 - [x] Processamento dos dados
 - [x] Treinamento do modelo
-- [ ] Api feita com Flask para predição do digito
+- [ ] Api feita com Flask para predição do digito - Encontra-se no ramo master 
 
 ## Realização do processamento e treinamento do modelo analisando e salvando.
 
