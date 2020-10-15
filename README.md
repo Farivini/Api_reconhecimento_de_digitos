@@ -9,7 +9,7 @@
 - [x] Treinamento do modelo
 - [ ] Api feita com Flask para predição do digito - Encontra-se no ramo master 
 
-## Realização do processamento e treinamento do modelo analisando e salvando.
+## Gif abaixo mostra realização do processamento e treinamento do modelo analisando e salvando.
 
 
 ![Codigo do Processo](processo.gif) 
