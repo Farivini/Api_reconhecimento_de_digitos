@@ -25,12 +25,12 @@ Foi  pegado o dataset que contem digitos de 28 por 28 pixels , essas imagens for
 distribuidas em um array em forma de coluna e transformadas em float para serem processadas.
 
 No arquivo treinamento_ia_digitos contem o codigo para o treinamento, verificação, analise , salvamento e carregar o modelo.
-No arquivo digitos possui imagens de digitos em formato png, para se quiser 
+
 
 Confesso que a predição de numeros pra ficar exata precisa de mais camadas de e **'neuronios'** dedicados a cada pixel.
 Mesmo assim com esse simples modelo podemos ver a grandeza da inteligencia artificial no nosso dia a dia.
 
-Um modelo treinado para detectar cancer que tal? Temos varias possibilidades para imolementar estes recursos .
+Um modelo treinado para detectar cancer que tal? Temos varias possibilidades para implementar estes recursos .
 
 Para rodar esse projeto instalei os pacotes que estão no documento **requirements** 
 
